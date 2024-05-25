@@ -1,6 +1,6 @@
 # Hugo Site Setup Script
 
-This script sets up a new Hugo site using the `hugo-bootstrap-theme` and performs various configurations.
+This script sets up a new Hugo site using the [hugo-bootstrap-theme](https://filipecarneiro.github.io/hugo-bootstrap-theme) and performs various configurations.
 
 ## Prerequisites
 
